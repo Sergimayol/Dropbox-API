@@ -4,7 +4,11 @@ Example of using dropbox api in python, by creating a dropbox class
 
 ### Dependencies
 
-`pip install dropbox`
+```bash
+pip install dropbox
+# or
+pip install -r requirements.txt
+```
 
 ### Official documentation
 
